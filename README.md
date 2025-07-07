@@ -44,13 +44,7 @@
 
 - 출발역과 도착역을 입력하면 경유역을 따라 각 역의 편의시설 정보(엘리베이터 등)를 제공  
 - 경로는 저장되어 메인 페이지에서 다시 확인 가능
-  ![스크린샷 2025-07-06 오전 10.02.08.png](attachment:f4a25599-d855-4284-be76-871c6bce1426:스크린샷_2025-07-06_오전_10.02.08.png)
-
----
-
-## 🎬 시연 영상 (Demo Video)
-
-[_talkv_wx0SMlYpa2_5fMGJympRlKk4sMFoyxUEK_talkv_high.mp4](attachment:b9064a6f-383a-425a-8a3e-0d02ae01523c:_talkv_wx0SMlYpa2_5fMGJympRlKk4sMFoyxUEK_talkv_high.mp4)
+![image](https://github.com/user-attachments/assets/0493950b-d88b-4688-a734-2001fb7f3545)
 
 ## ⚙️ 핵심 기술 (Core Technology)
 
