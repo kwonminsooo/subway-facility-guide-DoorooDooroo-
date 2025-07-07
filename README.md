@@ -40,10 +40,11 @@
 
 ## 🔍 주요 기능 (Service)
 
-### 🔎 경로 검색
 
 - 출발역과 도착역을 입력하면 경유역을 따라 각 역의 편의시설 정보(엘리베이터 등)를 제공  
 - 경로는 저장되어 메인 페이지에서 다시 확인 가능
+
+
 ![image](https://github.com/user-attachments/assets/0493950b-d88b-4688-a734-2001fb7f3545)
 
 ## ⚙️ 핵심 기술 (Core Technology)
